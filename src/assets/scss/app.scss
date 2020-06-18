@@ -1,4 +1,28 @@
 @import 'settings';
 @import 'foundation-emails';
 
-@import 'template/template';
+
+.white{
+    color: white;
+}
+.black {
+    background-color: black;
+}
+
+
+.yellow {
+    background-color: rgb(253, 217, 15);
+}
+
+.blue {
+    background-color: rgb(85, 142, 255);
+   
+}
+
+.p, img{
+    display: inline-block;
+}
+.textSize{
+    font-size: 14px;
+    font-weight: normal;
+}
